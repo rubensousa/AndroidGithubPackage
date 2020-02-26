@@ -40,4 +40,4 @@ dependencies {
 }
 
 
-apply from: "https://gist.githubusercontent.com/rubensousa/44c51b845678c7a0fefbbf238d16ed11/raw/6825fc32fe515d605ff99104330f8ff71643bb66/publish_github.gradle"
+apply from: "https://gist.githubusercontent.com/rubensousa/44c51b845678c7a0fefbbf238d16ed11/raw/3adb225f3ae4bffcda13c453b85e600964c3b0e7/publish_github.gradle"
